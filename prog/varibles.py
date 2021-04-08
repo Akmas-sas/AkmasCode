@@ -1,0 +1,5 @@
+file_name = ''
+RESOLUTION = '1000x800'
+TITLE = 'Akmas Code'
+TEXT_WIDTH = 1000
+TEXT_HEIGHT = 800
